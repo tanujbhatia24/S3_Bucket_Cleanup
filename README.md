@@ -44,7 +44,7 @@ Automatically clean up S3 storage by removing files older than 30 days using a s
 ## Screenshots
 - S3 bucket before cleanup<br>
   ![image](https://github.com/user-attachments/assets/67cf74fe-e83e-43a0-a2a1-1abf5b198525)<br>
-  ![image](https://github.com/user-attachments/assets/44076562-4a3e-4975-bd36-3aeed7753949)<br>
+  ![image](https://github.com/user-attachments/assets/dbf5b0c4-60c6-4bd1-8b8a-cefc692a739a)<br>
   
 - IAM role with permissions<br>
   ![image](https://github.com/user-attachments/assets/15fad19b-5bba-4017-845a-49c1b99dc17d)<br>
@@ -53,8 +53,11 @@ Automatically clean up S3 storage by removing files older than 30 days using a s
   ![image](https://github.com/user-attachments/assets/959be881-fa48-4a97-aa18-10678ba3b34c)<br>
 
 - Lambda test execution<br>
+  ![image](https://github.com/user-attachments/assets/f47a44bb-13ed-4d3a-99d9-9f049d592278)<br>
+  ![image](https://github.com/user-attachments/assets/766492a6-3ff9-4ce3-9028-4cd05cfc2302)<br>
   
 - S3 bucket after cleanup<br>
+  ![image](https://github.com/user-attachments/assets/f0ac290c-e89c-4d8d-840b-e354a72b3c99)<br>
 ---
 
 ## License
