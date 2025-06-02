@@ -16,17 +16,17 @@ Automatically clean up S3 storage by removing files older than 30 days using a s
 
 ## Setup Instructions
 ### 1. S3 Bucket Creation
-- Created a bucket named `my-s3-cleanup-bucket`
+- Created a bucket named `tanuj-s3-cleanup-bucket`
 - Uploaded multiple test files
 
 ### 2. IAM Role Setup
-- Created role: `lambda_s3_cleanup_role`
+- Created role: `tanuj_lambda_s3_cleanup_role`
 - Attached policy: `AmazonS3FullAccess`
 
 ### 3. Lambda Function Setup
-- Function Name: `S3CleanupFunction`
+- Function Name: `S3CleanupFunction_tanuj`
 - Runtime: Python 3.x
-- Attached IAM Role: `lambda_s3_cleanup_role`
+- Attached IAM Role: `tanuj_lambda_s3_cleanup_role`
 - Code Logic:
   - List objects in bucket
   - Compare `LastModified` date
