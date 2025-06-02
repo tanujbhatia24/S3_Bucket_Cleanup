@@ -32,6 +32,9 @@ Automatically clean up S3 storage by removing files older than 30 days using a s
   - Compare `LastModified` date
   - Delete if older than 30 days
   - Log deleted filenames
+- Lambda Code
+   You can use the below file for reference.<br>
+   [S3CleanupFunction_tanuj.py](https://github.com/tanujbhatia24/S3_Bucket_Cleanup/blob/main/S3CleanupFunction_tanuj.py)
 ---
 
 ## Testing
