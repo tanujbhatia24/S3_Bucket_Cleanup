@@ -1,4 +1,4 @@
-# Automated S3 Bucket Cleanup Using AWS Lambda and Boto3
+# Assignment 2: Automated S3 Bucket Cleanup Using AWS Lambda and Boto3
 This project automates the deletion of objects older than 30 days in an S3 bucket using a Lambda function written in Python and Boto3.
 ---
 
